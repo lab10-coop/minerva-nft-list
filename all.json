@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Minerva Farm Positions NFT-V1",
+    "address": "0xB81cf21256af0C688d93f49534a0d375346De458",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Minerva Farm Positions NFT-V1",
+    "address": "0x58a524458e8A196B1F5FA2da477A6111A6076268",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Minerva Farm Positions NFT-V1",
+    "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": ""
+  },
+  {
+    "name": "Efficient Market Hypothesis - 0α_1",
+    "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
+    "symbol": "0α_1",
+    "chainId": 100,
+    "logoURI": ""
+  }
+]
