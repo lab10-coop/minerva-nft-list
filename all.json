@@ -4,27 +4,27 @@
     "address": "0xB81cf21256af0C688d93f49534a0d375346De458",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/farm_FRACTION-MIVA_simple.svg"
   },
   {
     "name": "Minerva Farm Positions NFT-V1",
     "address": "0x58a524458e8A196B1F5FA2da477A6111A6076268",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/farm_MIVA-HNY_simple.svg"
   },
   {
     "name": "Minerva Farm Positions NFT-V1",
     "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/farm_MIVA-WXDAI_simple.svg"
   },
   {
     "name": "Efficient Market Hypothesis - 0α_1",
     "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
     "symbol": "0α_1",
     "chainId": 100,
-    "logoURI": ""
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/zeroalpha-simple.svg"
   }
 ]
