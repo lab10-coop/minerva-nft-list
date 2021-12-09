@@ -75,5 +75,33 @@
     "symbol": "NIFTY.INK",
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/nifty-ink.svg"
+  },
+  {
+    "name": "Crypto stamp Golden Doge",
+    "address": "0x753FFDb0901549a6d39C3D2f12722bB80D1D18B7",
+    "symbol": "CSGD",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CSGD.jpg"
+  },
+  {
+    "name": "Crypto stamp Edition 3",
+    "address": "0x5550f0D022f706d03AD25A72C477684d3416193F",
+    "symbol": "CS3",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CS3.jpg"
+  },
+  {
+    "name": "Crypto stamp Edition 3.1",
+    "address": "0x3151B7Dd9F6e806D2709153765925c373af47089",
+    "symbol": "CS3.1",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg"
+  },
+  {
+    "name": "NFTify ERC-721",
+    "address": "0x2c6362e7db64cdde0bf81f897c8a38d6fa037f18",
+    "symbol": "NFTify721",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png"
   }
 ]
