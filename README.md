@@ -14,18 +14,19 @@ Done:
 - POAP
 - xDaiTigers
 - niftyink
+- CryptoStamp 3, 3.1, GoldenDodge
 
 
 Check:
 - zeroalpha correct contract address
 - epor ERC-1155
+- Polygon NFTs
 
 
 
 todo:
  - add platform contracts and collections. check:
    - https://rarible.com/
-   - cryptostamp
    - https://xdai.unique.one
    - gitcoin kudos
    - https://cargo.build/
