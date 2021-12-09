@@ -15,10 +15,11 @@ Done:
 - xDaiTigers
 - niftyink
 - CryptoStamp 3, 3.1, GoldenDodge
+- zeroalpha correct contract address
+
 
 
 Check:
-- zeroalpha correct contract address
 - epor ERC-1155
 - Polygon NFTs
 
