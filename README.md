@@ -16,6 +16,9 @@ Done:
 - niftyink
 - CryptoStamp 3, 3.1, GoldenDodge
 - zeroalpha correct contract address
+- cryptoWine
+- Foundation
+- placeholder
 
 
 

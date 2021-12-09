@@ -103,5 +103,33 @@
     "symbol": "NFTify721",
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png"
+  },
+  {
+    "name": "Foundation",
+    "address": "0x86F78Cd3F6e6A93B996fedE81eD964b0Fa1414e1",
+    "symbol": "FND",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/foundation.svg"
+  },
+  {
+    "name": "ChievToken",
+    "address": "0xe0D25a9eAcCc946a016cD046EC1e5Cdf413Aa110",
+    "symbol": "CHIEV",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg"
+  },
+  {
+    "name": "cryptoWine",
+    "address": "0xe8bEb275EC4a9F854ae123096f597222D85C1Ef2",
+    "symbol": "WINE",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/cryptoWine.svg"
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg"
   }
 ]
