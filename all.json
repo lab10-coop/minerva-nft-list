@@ -1,30 +1,79 @@
 [
   {
-    "name": "Minerva Farm Positions NFT-V1",
+    "name": "Minerva Farm v1 - MIVA:WXDAI",
     "address": "0xB81cf21256af0C688d93f49534a0d375346De458",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/farm_FRACTION-MIVA_simple.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-WXDAI_Honeyswap.svg"
   },
   {
-    "name": "Minerva Farm Positions NFT-V1",
+    "name": "Minerva Farm v1 - MIVA:HNY",
     "address": "0x58a524458e8A196B1F5FA2da477A6111A6076268",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/farm_MIVA-HNY_simple.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-HNY_Honeyswap.svg"
   },
   {
-    "name": "Minerva Farm Positions NFT-V1",
+    "name": "Minerva Farm v1 - FRACTION:MIVA",
     "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/farm_MIVA-WXDAI_simple.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_FRACTION-MIVA_Honeyswap.svg"
+  },
+  {
+    "name": "Minerva Farm v1 - MIVA:SYMM",
+    "address": "0x0a7E3b2196021d4E13d91EE61B53df24674cA3c1",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-SYMM_Symmetric.svg"
+  },
+  {
+    "name": "Minerva Farm v1 - MIVA:FRACTION",
+    "address": "0x8CCC4D685236615126f94EC9850869d9f60F7684",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-FRACTION_Symmetric.svg"
   },
   {
     "name": "Efficient Market Hypothesis - 0α_1",
-    "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
+    "address": "0x0000000000000000000000000000000000000000",
     "symbol": "0α_1",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/7d3010571fe3326e87556dc546fee5476067a200/images/zeroalpha-simple.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/zeroalpha.svg"
+  },
+  {
+    "name": "The Proof of Attendance Protocol",
+    "address": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+    "symbol": "POAP",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/POAP.svg"
+  },
+  {
+    "name": "xDai Tigers",
+    "address": "0x22570d137e36099700A9c80E5DDDd4a0d353f6c2",
+    "symbol": "XDAITIGERS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/xDaiTigers.svg"
+  },
+  {
+    "name": "Pixeth",
+    "address": "0x42a109D4Bc0aff8754272Ba9F44fa79dAC0f1B34",
+    "symbol": "PIX",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/PIXETH.svg"
+  },
+  {
+    "name": "Epor.io",
+    "address": "0x13A24bA31A6F81b4B4F8e9759b8bDa49bD5904A1",
+    "symbol": "EPR",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/epor.svg"
+  },
+  {
+    "name": "Nifty.Ink",
+    "address": "0xCF964c89f509a8c0Ac36391c5460dF94B91daba5",
+    "symbol": "NIFTY.INK",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/nifty-ink.svg"
   }
 ]

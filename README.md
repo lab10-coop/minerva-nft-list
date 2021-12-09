@@ -9,14 +9,24 @@ Please check that the json file stays valid.
 
 Work in progress..
 
+Done:
+- Minerva Streaming Farm Positions
+- POAP
+- xDaiTigers
+- niftyink
+
+
+Check:
+- zeroalpha correct contract address
+- epor ERC-1155
+
+
+
 todo:
- - farms & zeroalpha icons
  - add platform contracts and collections. check:
-   - niftyink
    - https://rarible.com/
    - cryptostamp
    - https://xdai.unique.one
-   - POAP
    - gitcoin kudos
    - https://cargo.build/
    - https://superrare.com/
