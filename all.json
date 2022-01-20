@@ -4,139 +4,159 @@
     "address": "0xB81cf21256af0C688d93f49534a0d375346De458",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-WXDAI_Honeyswap.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-WXDAI_Honeyswap.svg",
+    "override": true
   },
   {
     "name": "Minerva Farm v1 - MIVA:HNY",
     "address": "0x58a524458e8A196B1F5FA2da477A6111A6076268",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-HNY_Honeyswap.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-HNY_Honeyswap.svg",
+    "override": true
   },
   {
     "name": "Minerva Farm v1 - FRACTION:MIVA",
     "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_FRACTION-MIVA_Honeyswap.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_FRACTION-MIVA_Honeyswap.svg",
+    "override": true
   },
   {
     "name": "Minerva Farm v1 - MIVA:SYMM",
     "address": "0x0a7E3b2196021d4E13d91EE61B53df24674cA3c1",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-SYMM_Symmetric.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-SYMM_Symmetric.svg",
+    "override": true
   },
   {
     "name": "Minerva Farm v1 - MIVA:FRACTION",
     "address": "0x8CCC4D685236615126f94EC9850869d9f60F7684",
     "symbol": "MIVA-V1-FPOS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-FRACTION_Symmetric.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-FRACTION_Symmetric.svg",
+    "override": true
   },
   {
     "name": "Efficient Market Hypothesis - 0α_1",
     "address": "0x64c87292382966DF7B884BbD4b303600F4091948",
     "symbol": "0α_1",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/zeroalpha.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/zeroalpha.svg",
+    "override": false
   },
   {
     "name": "The Proof of Attendance Protocol",
     "address": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
     "symbol": "POAP",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/POAP.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/POAP.svg",
+    "override": true
   },
   {
     "name": "xDai Tigers",
     "address": "0x22570d137e36099700A9c80E5DDDd4a0d353f6c2",
     "symbol": "XDAITIGERS",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/xDaiTigers.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/xDaiTigers.svg",
+    "override": true
   },
   {
     "name": "Pixeth",
     "address": "0x42a109D4Bc0aff8754272Ba9F44fa79dAC0f1B34",
     "symbol": "PIX",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/PIXETH.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/PIXETH.svg",
+    "override": false
   },
   {
     "name": "Epor.io",
     "address": "0x13A24bA31A6F81b4B4F8e9759b8bDa49bD5904A1",
     "symbol": "EPR",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/epor.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/epor.svg",
+    "override": true
   },
   {
     "name": "Nifty.Ink",
     "address": "0xCF964c89f509a8c0Ac36391c5460dF94B91daba5",
     "symbol": "NIFTY.INK",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/nifty-ink.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/nifty-ink.svg",
+    "override": true
   },
   {
     "name": "Crypto stamp Golden Doge",
     "address": "0x753FFDb0901549a6d39C3D2f12722bB80D1D18B7",
     "symbol": "CSGD",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CSGD.jpg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CSGD.jpg",
+    "override": true
   },
   {
     "name": "Crypto stamp Edition 3",
     "address": "0x5550f0D022f706d03AD25A72C477684d3416193F",
     "symbol": "CS3",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CS3.jpg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CS3.jpg",
+    "override": true
   },
   {
     "name": "Crypto stamp Edition 3.1",
     "address": "0x3151B7Dd9F6e806D2709153765925c373af47089",
     "symbol": "CS3.1",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg",
+    "override": true
   },
   {
     "name": "Crypto stamp Edition 3.1",
     "address": "0x0e76fdd1c4dc5336c8a083f709fd415eaf32b9bf",
     "symbol": "CS3.1",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg",
+    "override": true
   },
   {
     "name": "NFTify ERC-721",
     "address": "0x2c6362e7db64cdde0bf81f897c8a38d6fa037f18",
     "symbol": "NFTify721",
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": false
   },
   {
     "name": "Foundation",
     "address": "0x86F78Cd3F6e6A93B996fedE81eD964b0Fa1414e1",
     "symbol": "FND",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/foundation.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/foundation.svg",
+    "override": false
   },
   {
     "name": "ChievToken",
     "address": "0xe0D25a9eAcCc946a016cD046EC1e5Cdf413Aa110",
     "symbol": "CHIEV",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
   },
   {
     "name": "cryptoWine",
     "address": "0xe8bEb275EC4a9F854ae123096f597222D85C1Ef2",
     "symbol": "WINE",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/cryptoWine.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/cryptoWine.svg",
+    "override": false
   },
   {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg"
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
   }
 ]
