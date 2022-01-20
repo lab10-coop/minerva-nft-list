@@ -98,6 +98,13 @@
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg"
   },
   {
+    "name": "Crypto stamp Edition 3.1",
+    "address": "0x0e76fdd1c4dc5336c8a083f709fd415eaf32b9bf",
+    "symbol": "CS3.1",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg"
+  },
+  {
     "name": "NFTify ERC-721",
     "address": "0x2c6362e7db64cdde0bf81f897c8a38d6fa037f18",
     "symbol": "NFTify721",
