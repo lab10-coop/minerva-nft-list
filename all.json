@@ -152,6 +152,14 @@
     "override": false
   },
   {
+    "name": "OpenSea Collections",
+    "address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
+    "symbol": "OPENSTORE",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/Opensea.svg",
+    "override": false
+  },  
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
