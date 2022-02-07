@@ -158,7 +158,15 @@
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/Opensea.svg",
     "override": false
-  },  
+  },
+  {
+    "name": "NFBeez",
+    "address": "0x0f37B8101f014cf9806799b7159b32c010397d55",
+    "symbol": "NFB",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFBeez.svg",
+    "override": false
+  },
   {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
