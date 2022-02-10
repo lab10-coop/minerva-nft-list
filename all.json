@@ -176,6 +176,54 @@
     "override": false
   },
   {
+    "name": "Ethereum Name Service",
+    "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+    "symbol": "ENS",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/ENS.svg",
+    "override": false
+  },
+  {
+    "name": "Uniswap V3: Positions NFT",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "symbol": "UNI-V3-POS",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/uniswapv3.svg",
+    "override": false
+  },
+  {
+    "name": "FOAM Signal",
+    "address": "0x36f16a0d35b866cdd0f3c3fa39e2ba8f48b099d2",
+    "symbol": "FSX",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/FOAM.svg",
+    "override": false
+  },
+  {
+    "name": "Rarible",
+    "address": "0xd07dc4262bcdbf85190c01c996b4c06a461d2430",
+    "symbol": "RARI",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/rarible.svg",
+    "override": false
+  },
+  {
+    "name": "Zapper NFT",
+    "address": "0xfaff15c6cdaca61a4f87d329689293e07c98f578",
+    "symbol": "ZPR_NFT",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/zapper.svg",
+    "override": false
+  },
+  {
+    "name": "Belvedere & arteQ - The Kiss by Gustav Klimt",
+    "address": "0x54442d0a5849ac1cfedd78f892154328f2c5b238",
+    "symbol": "BelvedereAndArteQTheKissByGustavKlimt",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/the-kiss.jpg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
