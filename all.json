@@ -168,6 +168,14 @@
     "override": false
   },
   {
+    "name": "NFTify ERC-721",
+    "address": "0x188dff332d32bdc7519617249c43d790a8e2b3f4",
+    "symbol": "NFTify721",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
