@@ -173,7 +173,7 @@
     "symbol": "NFTify721",
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
-    "override": false
+    "override": true
   },
   {
     "name": "NFTify ERC-1155 ",
@@ -181,7 +181,7 @@
     "symbol": "NFTify1155",
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
-    "override": false
+    "override": true
   },
   {
     "name": "Ethereum Name Service",
