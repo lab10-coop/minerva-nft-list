@@ -176,6 +176,14 @@
     "override": false
   },
   {
+    "name": "NFTify ERC-1155 ",
+    "address": "0x42866ef654fee1a6447c644d57b63824ec1cf521",
+    "symbol": "NFTify1155",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": false
+  },
+  {
     "name": "Ethereum Name Service",
     "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
     "symbol": "ENS",
