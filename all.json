@@ -181,7 +181,7 @@
     "symbol": "ENS",
     "chainId": 1,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/ENS.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Uniswap V3: Positions NFT",
