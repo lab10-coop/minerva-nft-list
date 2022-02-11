@@ -120,6 +120,14 @@
     "override": true
   },
   {
+    "name": "Swiss Crypto Stamp",
+    "address": "0x6ddcc90614d47acd7596447686c4fd6aee782742",
+    "symbol": "SCS",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/swiss-crypto-stamp-2021.jpg",
+    "override": true
+  },
+  {
     "name": "NFTify ERC-721",
     "address": "0x2c6362e7db64cdde0bf81f897c8a38d6fa037f18",
     "symbol": "NFTify721",
