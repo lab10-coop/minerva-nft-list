@@ -211,7 +211,7 @@
     "name": "Uniswap V3: Positions NFT",
     "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
     "symbol": "UNI-V3-POS",
-    "chainId": 1,
+    "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/uniswapv3.svg",
     "override": false
   },
