@@ -208,6 +208,14 @@
     "override": false
   },
   {
+    "name": "Uniswap V3: Positions NFT",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "symbol": "UNI-V3-POS",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/uniswapv3.svg",
+    "override": false
+  },
+  {
     "name": "FOAM Signal",
     "address": "0x36f16a0d35b866cdd0f3c3fa39e2ba8f48b099d2",
     "symbol": "FSX",
