@@ -256,6 +256,38 @@
     "override": false
   },
   {
+    "name": " HoneyFarm Deposits v1",
+    "address": "0xb44825cf0d8d4dd552f2434056c41582415aaaa1",
+    "symbol": "HFD",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": " HoneyFarm Deposits v1",
+    "address": "0x62d7e2484fcfc6752b9473260efe1b86cabac34e",
+    "symbol": "HFD",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "KudosToken",
+    "address": "0x74e596525c63393f42c76987b6a66f4e52733efa",
+    "symbol": "KDO",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/kudostoken.svg",
+    "override": false
+  },
+  {
+    "name": "KudosToken",
+    "address": "0x2aea4add166ebf38b63d09a75de1a7b94aa24163",
+    "symbol": "KDO",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/kudostoken.svg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
