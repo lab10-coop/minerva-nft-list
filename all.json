@@ -288,6 +288,14 @@
     "override": false
   },
   {
+    "name": "SNAFU",
+    "address": "0xed1efc6efceaab9f6d609fec89c9e675bf1efb0a",
+    "symbol": "SNAFU",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/SNAFU.svg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
