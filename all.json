@@ -296,6 +296,22 @@
     "override": false
   },
   {
+    "name": "WrappedSNAFU",
+    "address": "0x1BFb3FbCf1ce331B7AAE03a3c0Bf3AcF685F4bD6",
+    "symbol": "WSNAFU",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/SNAFU.svg",
+    "override": false
+  },
+  {
+    "name": "SnafuConverter",
+    "address": "0x683B799b7ee741f00CCea34AcaDC32ba23E8982a",
+    "symbol": "SnafuPrize",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/SNAFU.svg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
