@@ -9,7 +9,7 @@ It is inspired by https://tokenlists.org/ . Compared to tokenlists it is missing
 How to add your NFT project
 ---------------------------
 
-Create an issue or a pull request and provide `name`, `address`, `symbol`, `chainId`, `logoURI` and set `override`. All are required.
+[Create an issue](https://github.com/lab10-coop/minerva-nft-list/issues/new?assignees=&labels=add+collection&template=add-new-nft-collection-with-icon.md&title=Add+NFT+collection%3A+%3CName%3E) or a pull request and provide `name`, `address`, `symbol`, `chainId`, `logoURI` and set `override`. All are required.
 
 - `name` and `symbol` are strings analog to [ERC-721](https://eips.ethereum.org/EIPS/eip-721). They also need to be provided for ERC-1155 NFTs.
 - `address` is an [eip-55](https://eips.ethereum.org/EIPS/eip-55) (checksum) address where a EIP-721 or EIP-1155 contract is deployed on the chain specified with `chainId`.
