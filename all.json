@@ -312,6 +312,14 @@
     "override": false
   },
   {
+    "name": ".gnosis",
+    "address": "0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a",
+    "symbol": ".GNOSIS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
