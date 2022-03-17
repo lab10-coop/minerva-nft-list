@@ -400,6 +400,14 @@
     "override": true
   },
   {
+    "name": "CoW Citizen",
+    "address": "0x62108E1AC36a163A68B869d096cb14CE690ca30b",
+    "symbol": "CITIZEN",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CowCitizen.svg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
