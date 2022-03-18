@@ -408,6 +408,14 @@
     "override": false
   },
   {
+    "name": "Degen Dogs",
+    "address": "0xA920464B46548930bEfECcA5467860B2b4C2B5b9",
+    "symbol": "DOG",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/degendogs.png",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
