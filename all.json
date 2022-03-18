@@ -416,6 +416,14 @@
     "override": false
   },
   {
+    "name": "Gnosis Tigers",
+    "address": "0x789Ad63C76940E6D48c6A795f572528752451290",
+    "symbol": "3DTIGERS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/xDaiTigers.svg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
