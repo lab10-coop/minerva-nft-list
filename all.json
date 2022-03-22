@@ -329,7 +329,7 @@
   },
   {
     "name": ".gnosis (punk.domains)",
-    "address": "0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a",
+    "address": "0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f",
     "symbol": ".GNOSIS",
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
@@ -337,7 +337,7 @@
   },
   {
     "name": ".xdai (punk.domains)",
-    "address": "0xefbe0b46649b7a0f1e1d49cca98ad9cf6bcfb096",
+    "address": "0xbca24d86e4ad1e011278faefc4ff191a731411ec",
     "symbol": ".XDAI",
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
@@ -345,6 +345,30 @@
   },
   {
     "name": ".bright (punk.domains)",
+    "address": "0x3490c9817c45a2a394b11a3807f58a8325235ae0",
+    "symbol": ".BRIGHT",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".gnosis (deprecated)",
+    "address": "0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a",
+    "symbol": ".GNOSIS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".xdai (deprecated)",
+    "address": "0xefbe0b46649b7a0f1e1d49cca98ad9cf6bcfb096",
+    "symbol": ".XDAI",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".bright (deprecated)",
     "address": "0x4da0a46cc54439b1dE0203d376b98D988697091d",
     "symbol": ".BRIGHT",
     "chainId": 100,
