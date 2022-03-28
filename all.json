@@ -497,6 +497,14 @@
     "override": false
   },
   {
+    "name": "Blue Skies",
+    "address": "0x9E1f8Cb2F4674AC5AbaE9d38A80607da79cBE5C3",
+    "symbol": "BLS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BlueSkies.png",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
