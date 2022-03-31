@@ -17,20 +17,5 @@ How to add your NFT project
 - `logoURI` is a URI pointing to an image that represents a NFT contract, sometimes called NFT collection. We prefer simple and small SVG images and otherwise accept PNGs.
 - `override` should be set to `false` by default. Only if the `name` and `symbol` should override what is provided by the contract itself set it to `true`.
 
-
-todo
-----
-
- - add platform contracts and collections. check:
-   - https://rarible.com/
-   - https://xdai.unique.one
-   - gitcoin kudos
-   - https://cargo.build/
-   - https://superrare.com/
-   - https://opensea.io/
-   - https://knownorigin.io/
-   - https://www.larvalabs.com/cryptopunks
-   - https://www.cryptokitties.co/
-   - https://dappradar.com/nft/marketplaces
-   - uniswap v3
- - should it have info about Erc721 vs. Erc1155?
+THEN:
+Comment with some infos about the collection (Short explanation, website, discord, etc...) so we can take a quick look and make sure it's nothing malicious or a scam. Feel free to reach out to us directly on Discord (https://minerva.digital/discord) or Telegram (https://t.me/MinervaWallet) to speed things up!
