@@ -521,6 +521,14 @@
     "override": false
   },
   {
+    "name": "DODO Minions",
+    "address": "0x0d566FA989F601e3B5Ab50330A14c1dCAe7B5cB2",
+    "symbol": "Minions",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/DODO-minions.jpg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
