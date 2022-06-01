@@ -533,7 +533,7 @@
     "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
     "symbol": "DAVID",
     "chainId": 1,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid.svg",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
     "override": false
   },
   {
@@ -541,7 +541,7 @@
     "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
     "symbol": "DAVID",
     "chainId": 100,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid.svg",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
     "override": false
   },
   {
@@ -549,7 +549,7 @@
     "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
     "symbol": "DAVID",
     "chainId": 137,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid.svg",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
     "override": false
   },
   {
@@ -557,7 +557,7 @@
     "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
     "symbol": "DAVID",
     "chainId": 56,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid.svg",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
     "override": false
   },
   {
@@ -565,7 +565,7 @@
     "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
     "symbol": "DAVID",
     "chainId": 43114,
-    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid.svg",
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
     "override": false
   },
   {
