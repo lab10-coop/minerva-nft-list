@@ -569,6 +569,14 @@
     "override": false
   },
   {
+    "name": "DappCon 2022 Berlin - Early Bird - Wave 1",
+    "address": "0x2217d4ff7b9978ba123019bf1f4dc0a2bd46f9d6",
+    "symbol": "DappCon KEY",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon2022.svg",
+    "override": true
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
