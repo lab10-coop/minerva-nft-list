@@ -577,6 +577,14 @@
     "override": true
   },
   {
+    "name": "AzuroBet-NFT",
+    "address": "0xFd9E5A2A1bfc8B57A288A3e12E2c601b0Cc7e476",
+    "symbol": "BET",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/AzuroBet.png",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
