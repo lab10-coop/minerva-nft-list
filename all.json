@@ -80,6 +80,14 @@
     "override": true
   },
   {
+    "name": "Epor.io",
+    "address": "0x5a499713dda676df1d97c1462b7eb9ae874dd3d8",
+    "symbol": "EPR",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/epor.svg",
+    "override": true
+  },
+  {
     "name": "Nifty.Ink",
     "address": "0xCF964c89f509a8c0Ac36391c5460dF94B91daba5",
     "symbol": "NIFTY.INK",
