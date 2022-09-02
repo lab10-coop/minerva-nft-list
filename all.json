@@ -601,6 +601,14 @@
     "override": true
   },
   {
+    "name": "DappCon22 Berlin - General Tickets",
+    "address": "0x2F3c9b71f256E7450c47872aE00389C616B08646",
+    "symbol": "DappCon KEY",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon2022.svg",
+    "override": true
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
