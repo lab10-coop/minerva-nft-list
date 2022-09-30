@@ -184,6 +184,14 @@
     "override": false
   },
   {
+    "name": "GanGirls",
+    "address": "0x627794a502Db38FC0Bc8ff696eA5A31902FCDF4E",
+    "symbol": "GANG",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/gan-girls.jpg",
+    "override": false
+  },
+  {
     "name": "NFBeez",
     "address": "0x0f37B8101f014cf9806799b7159b32c010397d55",
     "symbol": "NFB",
