@@ -636,6 +636,14 @@
     "name": "Superfluid Stream",
     "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
     "symbol": "SFS",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
     "override": false
@@ -645,6 +653,14 @@
     "address": "0x91CF787b441207e6faB4e18320521c3d23c587E3",
     "symbol": "SFS",
     "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
+    "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
     "override": false
   },
