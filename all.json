@@ -633,6 +633,14 @@
     "override": false
   },
   {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
