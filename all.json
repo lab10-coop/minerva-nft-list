@@ -673,6 +673,14 @@
     "override": false
   },
   {
+    "name": "Lens Protocol Profiles",
+    "address": "0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d",
+    "symbol": "LPP",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/lens-protocol-profiles.svg",
+    "override": true
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
