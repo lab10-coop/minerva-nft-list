@@ -104,6 +104,14 @@
     "override": true
   },
   {
+    "name": "Crypto stamp Edition 2",
+    "address": "0x143e0E54695E7EB13571B019F87e927c1098066C",
+    "symbol": "CS2",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CS3.jpg",
+    "override": true
+  },
+  {
     "name": "Crypto stamp Edition 3",
     "address": "0x5550f0D022f706d03AD25A72C477684d3416193F",
     "symbol": "CS3",
