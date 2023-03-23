@@ -713,6 +713,14 @@
     "override": true
   },
   {
+    "name": "NiftyFair",
+    "address": "0x805df61e05dfc0bef1ae6c66ee59fbcc31f361c7",
+    "symbol": "NiftyToken",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NiftyFair.svg",
+    "override": true
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
