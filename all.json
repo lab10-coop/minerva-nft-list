@@ -713,7 +713,7 @@
     "override": true
   },
   {
-    "name": "NiftyFair",
+    "name": "NiftyFair.io",
     "address": "0x805df61e05dfc0bef1ae6c66ee59fbcc31f361c7",
     "symbol": "NiftyToken",
     "chainId": 100,
