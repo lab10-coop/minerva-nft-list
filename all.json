@@ -721,6 +721,14 @@
     "override": true
   },
   {
+    "name": "ArtsyApes by Stebo",
+    "address": "0x618304922d1a51d4f572e2ad3ff2962e8f7d4aad",
+    "symbol": "ARTSY",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/ArtsyApes.jpg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
