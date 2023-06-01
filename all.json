@@ -737,6 +737,14 @@
     "override": true
   },
   {
+    "name": "Not Bored Ape Yacht Club",
+    "address": "0x0f38f41cD7eF4793412C58263C7dC54dbD807f73",
+    "symbol": "NBAYC",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NBAYC.png",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
