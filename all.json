@@ -729,6 +729,14 @@
     "override": false
   },
   {
+    "name": "DappCon 2023 Berlin - Early Bird",
+    "address": "0xc948C9f09f21c36A133261fE5C55A5cBB37d4486",
+    "symbol": "DappCon23",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon2023.svg",
+    "override": true
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
