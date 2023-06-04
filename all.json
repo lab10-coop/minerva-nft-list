@@ -737,6 +737,22 @@
     "override": true
   },
   {
+    "name": "DappCon 2023 Berlin - General Tickets",
+    "address": "0x89c98813B9B52697cf7571b35Fb74608B98E1683",
+    "symbol": "DappCon23",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon23.svg",
+    "override": true
+  },
+  {
+    "name": "DappCon 2023 Berlin - HoG Tickets",
+    "address": "0x22b8d82eD250c4694F6425eCA0A0612A61Cf12d8",
+    "symbol": "DappCon23",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon23.svg",
+    "override": true
+  },
+  {
     "name": "Not Bored Ape Yacht Club",
     "address": "0x0f38f41cD7eF4793412C58263C7dC54dbD807f73",
     "symbol": "NBAYC",
