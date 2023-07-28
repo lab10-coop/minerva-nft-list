@@ -766,7 +766,7 @@
     "symbol": "GPAYVIP",
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GnosisPay.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Gnosis Pay Eiffel",
@@ -774,7 +774,7 @@
     "symbol": "GPAYEIFFEL",
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GnosisPay.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Placeholder",
