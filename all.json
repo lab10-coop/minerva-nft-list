@@ -761,6 +761,22 @@
     "override": false
   },
   {
+    "name": "Gnosis Pay VIP",
+    "address": "0x0d0ce23ddb2eac9439d2ba79f802016a60325b09",
+    "symbol": "GPAYVIP",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GnosisPay.svg",
+    "override": false
+  },
+  {
+    "name": "Gnosis Pay Eiffel",
+    "address": "0x417e1d9998aaadd1064365671f9256621fc5def3",
+    "symbol": "GPAYEIFFEL",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GnosisPay.svg",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
