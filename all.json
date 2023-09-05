@@ -630,7 +630,7 @@
     "symbol": "SFS",
     "chainId": 100,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Superfluid Stream",
@@ -638,7 +638,7 @@
     "symbol": "SFS",
     "chainId": 137,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Superfluid Stream",
@@ -646,7 +646,7 @@
     "symbol": "SFS",
     "chainId": 10,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Superfluid Stream",
@@ -654,7 +654,7 @@
     "symbol": "SFS",
     "chainId": 42161,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Superfluid Stream",
@@ -662,7 +662,7 @@
     "symbol": "SFS",
     "chainId": 43114,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "Superfluid Stream",
@@ -670,7 +670,7 @@
     "symbol": "SFS",
     "chainId": 56,
     "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
-    "override": false
+    "override": true
   },
   {
     "name": "THE CUP",
