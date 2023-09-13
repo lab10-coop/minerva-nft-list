@@ -777,6 +777,118 @@
     "override": true
   },
   {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x1497440B4E92DC4ca0F76223b28C20Cb9cB8a0f1",
+    "symbol": "CIF",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xfC00dEE8a980110c5608A823a5B3af3872635456",
+    "symbol": "COF",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x55909bB8cd8276887Aae35118d60b19755201c68",
+    "symbol": "CIF",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0x554e2bbaCF43FD87417b7201A9F1649a3ED89d68",
+    "symbol": "COF",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0C6D90a98426bfD572a5c5Be572a7f6Bd1C5ED76",
+    "symbol": "CIF",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xFb2b126660BE2fdEBa254b1F6e4348644E8482e7",
+    "symbol": "COF",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0043d7c85C8b96a49A72A92C0B48CdC4720437d7",
+    "symbol": "CIF",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0x051e766e2d8dc65ae2bFCF084A50AD0447634227",
+    "symbol": "COF",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x82b9D8A91A5b333b5A6e78439551ea0E7da153E3",
+    "symbol": "CIF",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0x4247bA6C3658Fa5C0F523BAcea8D0b97aF1a175e",
+    "symbol": "COF",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0xbF7BCcE8D60A9C3F6bFaEc9346Aa85B9f781a4e9",
+    "symbol": "CIF",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xcb05535bd212eCFC4B7b9db81d6C2C768b726776",
+    "symbol": "COF",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0FB7694c990CF19001127391Dbe53924dd7a61c7",
+    "symbol": "CIF",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xbe49ac1EadAc65dccf204D4Df81d650B50122aB2",
+    "symbol": "COF",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",
