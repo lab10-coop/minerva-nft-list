@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0C6D90a98426bfD572a5c5Be572a7f6Bd1C5ED76",
+    "symbol": "CIF",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xFb2b126660BE2fdEBa254b1F6e4348644E8482e7",
+    "symbol": "COF",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "GeoWeb Registry Diamond",
+    "address": "0xba1231785a7b4ac0e8dc9a0403938c2182ce4a4e",
+    "symbol": "GEO-RD",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/geoweb.svg",
+    "override": false
+  },
+  {
+    "name": "GeoWeb PCOLicenseDiamond",
+    "address": "0xe5769b506e624044ac2d472e76bedba53dc2bbed",
+    "symbol": "GEO-LD",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/geoweb.svg",
+    "override": false
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "name": "NFTify ERC-721",
+    "address": "0x188dff332d32bdc7519617249c43d790a8e2b3f4",
+    "symbol": "NFTify721",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": true
+  },
+  {
+    "name": "NFTify ERC-1155 ",
+    "address": "0x42866ef654fee1a6447c644d57b63824ec1cf521",
+    "symbol": "NFTify1155",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": true
+  },
+  {
+    "name": "DODO Minions",
+    "address": "0x0d566FA989F601e3B5Ab50330A14c1dCAe7B5cB2",
+    "symbol": "Minions",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/DODO-minions.jpg",
+    "override": false
+  },
+  {
+    "name": "Bored David on BSC",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0xbF7BCcE8D60A9C3F6bFaEc9346Aa85B9f781a4e9",
+    "symbol": "CIF",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xcb05535bd212eCFC4B7b9db81d6C2C768b726776",
+    "symbol": "COF",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  }
+]

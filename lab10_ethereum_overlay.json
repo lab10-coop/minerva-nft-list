@@ -1,0 +1,90 @@
+[
+  {
+    "name": "Ethereum Name Service",
+    "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+    "symbol": "ENS",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/ENS.svg",
+    "override": true
+  },
+  {
+    "name": "Uniswap V3: Positions NFT",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "symbol": "UNI-V3-POS",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/uniswapv3.svg",
+    "override": false
+  },
+  {
+    "name": "FOAM Signal",
+    "address": "0x36f16a0d35b866cdd0f3c3fa39e2ba8f48b099d2",
+    "symbol": "FSX",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/FOAM.svg",
+    "override": false
+  },
+  {
+    "name": "Rarible",
+    "address": "0xd07dc4262bcdbf85190c01c996b4c06a461d2430",
+    "symbol": "RARI",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/rarible.svg",
+    "override": false
+  },
+  {
+    "name": "Zapper NFT",
+    "address": "0xfaff15c6cdaca61a4f87d329689293e07c98f578",
+    "symbol": "ZPR_NFT",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/zapper.svg",
+    "override": false
+  },
+  {
+    "name": "Belvedere & arteQ - The Kiss by Gustav Klimt",
+    "address": "0x54442d0a5849ac1cfedd78f892154328f2c5b238",
+    "symbol": "BelvedereAndArteQTheKissByGustavKlimt",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/the-kiss.jpg",
+    "override": false
+  },
+  {
+    "name": "KudosToken",
+    "address": "0x2aea4add166ebf38b63d09a75de1a7b94aa24163",
+    "symbol": "KDO",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/kudostoken.svg",
+    "override": false
+  },
+  {
+    "name": "Unstoppable Domains",
+    "address": "0x049aba7510f45BA5b64ea9E658E342F904DB358D",
+    "symbol": "UD",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/unstoppable-domains.svg",
+    "override": false
+  },
+  {
+    "name": "Bored David",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "ArtsyApes by Stebo",
+    "address": "0x618304922d1a51d4f572e2ad3ff2962e8f7d4aad",
+    "symbol": "ARTSY",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/ArtsyApes.jpg",
+    "override": false
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  }
+]

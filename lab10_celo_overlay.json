@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Epor.io",
+    "address": "0x5a499713dda676df1d97c1462b7eb9ae874dd3d8",
+    "symbol": "EPR",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/epor.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0FB7694c990CF19001127391Dbe53924dd7a61c7",
+    "symbol": "CIF",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xbe49ac1EadAc65dccf204D4Df81d650B50122aB2",
+    "symbol": "COF",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  }
+]

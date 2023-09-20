@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Minerva Wallet AVAX Testing NFTs",
+    "address": "0x2e4642a5a4ee6898b398d819b93c635caa4dda8d",
+    "symbol": "MWTEST",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/minerva-test-nfts.svg",
+    "override": true
+  },
+  {
+    "name": "Bored David on Avalanche",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91CF787b441207e6faB4e18320521c3d23c587E3",
+    "symbol": "SFS",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x82b9D8A91A5b333b5A6e78439551ea0E7da153E3",
+    "symbol": "CIF",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0x4247bA6C3658Fa5C0F523BAcea8D0b97aF1a175e",
+    "symbol": "COF",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  }
+]
