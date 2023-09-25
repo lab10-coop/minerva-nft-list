@@ -5,6 +5,8 @@ A list of NFT Erc721 and Erc1155 contracts with metadata for the [Minerva Wallet
 
 It is inspired by https://tokenlists.org/ . Compared to tokenlists it is missing the `decimals` field, additionally we have an `override` field.
 
+It automatically updates the all.json if one of the overlay files is changed.
+
 
 How to add your NFT project
 ---------------------------
