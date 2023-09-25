@@ -16,6 +16,9 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
+    - name: Set execute permission on update.sh  # <-- Add this step
+      run: chmod +x update.sh
+
     - name: Run update script
       run: ./update.sh
 
