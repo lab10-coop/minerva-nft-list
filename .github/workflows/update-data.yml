@@ -1,0 +1,44 @@
+name: Update Data
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # Run every 24 hours at midnight
+  push:
+    branches:
+      - master  # Replace with the branch you want
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Run update script
+      run: ./update.sh
+
+    - name: Commit and push changes
+      run: |
+        git config user.name "Automated Update"
+        git config user.email "your-email@example.com"
+        git add -A
+        if [[ -n $(git status -s) ]]; then
+          git commit -m "Automated data update"
+          git push
+        else
+          echo "No changes to commit"
+          exit 0
+        fi
+
+    - name: Notify Discord if Success
+      if: success()
+      run: |
+        MESSAGE="Data update job completed. Status: ${{ job.status }}."
+        curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
+
+    - name: Notify Discord if Failure
+      if: failure()
+      run: |
+        MESSAGE="Data update job failed. Status: ${{ job.status }}. <@GetNotifications>"
+        curl -H "Content-Type: application/json" -X POST -d "{\"content\": \"$MESSAGE\"}" ${{ secrets.DISCORD_WEBHOOK_URL }}
