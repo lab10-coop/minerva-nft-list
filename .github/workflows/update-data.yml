@@ -6,6 +6,7 @@ on:
   push:
     branches:
       - master  # Replace with the branch you want
+      - main
 
 jobs:
   update:
