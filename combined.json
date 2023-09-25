@@ -1,0 +1,962 @@
+[
+  {
+    "name": "Ethereum Name Service",
+    "address": "0x57f1887a8bf19b14fc0df6fd9b2acc9af147ea85",
+    "symbol": "ENS",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/ENS.svg",
+    "override": true
+  },
+  {
+    "name": "Uniswap V3: Positions NFT",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "symbol": "UNI-V3-POS",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/uniswapv3.svg",
+    "override": false
+  },
+  {
+    "name": "FOAM Signal",
+    "address": "0x36f16a0d35b866cdd0f3c3fa39e2ba8f48b099d2",
+    "symbol": "FSX",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/FOAM.svg",
+    "override": false
+  },
+  {
+    "name": "Rarible",
+    "address": "0xd07dc4262bcdbf85190c01c996b4c06a461d2430",
+    "symbol": "RARI",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/rarible.svg",
+    "override": false
+  },
+  {
+    "name": "Zapper NFT",
+    "address": "0xfaff15c6cdaca61a4f87d329689293e07c98f578",
+    "symbol": "ZPR_NFT",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/zapper.svg",
+    "override": false
+  },
+  {
+    "name": "Belvedere & arteQ - The Kiss by Gustav Klimt",
+    "address": "0x54442d0a5849ac1cfedd78f892154328f2c5b238",
+    "symbol": "BelvedereAndArteQTheKissByGustavKlimt",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/the-kiss.jpg",
+    "override": false
+  },
+  {
+    "name": "KudosToken",
+    "address": "0x2aea4add166ebf38b63d09a75de1a7b94aa24163",
+    "symbol": "KDO",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/kudostoken.svg",
+    "override": false
+  },
+  {
+    "name": "Unstoppable Domains",
+    "address": "0x049aba7510f45BA5b64ea9E658E342F904DB358D",
+    "symbol": "UD",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/unstoppable-domains.svg",
+    "override": false
+  },
+  {
+    "name": "Bored David",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "ArtsyApes by Stebo",
+    "address": "0x618304922d1a51d4f572e2ad3ff2962e8f7d4aad",
+    "symbol": "ARTSY",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/ArtsyApes.jpg",
+    "override": false
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 1,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "GanGirls",
+    "address": "0x627794a502Db38FC0Bc8ff696eA5A31902FCDF4E",
+    "symbol": "GANG",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/gan-girls.jpg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0043d7c85C8b96a49A72A92C0B48CdC4720437d7",
+    "symbol": "CIF",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0x051e766e2d8dc65ae2bFCF084A50AD0447634227",
+    "symbol": "COF",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 42161,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "Minerva Wallet AVAX Testing NFTs",
+    "address": "0x2e4642a5a4ee6898b398d819b93c635caa4dda8d",
+    "symbol": "MWTEST",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/minerva-test-nfts.svg",
+    "override": true
+  },
+  {
+    "name": "Bored David on Avalanche",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91CF787b441207e6faB4e18320521c3d23c587E3",
+    "symbol": "SFS",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x82b9D8A91A5b333b5A6e78439551ea0E7da153E3",
+    "symbol": "CIF",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0x4247bA6C3658Fa5C0F523BAcea8D0b97aF1a175e",
+    "symbol": "COF",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 43114,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "NFTify ERC-721",
+    "address": "0x188dff332d32bdc7519617249c43d790a8e2b3f4",
+    "symbol": "NFTify721",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": true
+  },
+  {
+    "name": "NFTify ERC-1155 ",
+    "address": "0x42866ef654fee1a6447c644d57b63824ec1cf521",
+    "symbol": "NFTify1155",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": true
+  },
+  {
+    "name": "DODO Minions",
+    "address": "0x0d566FA989F601e3B5Ab50330A14c1dCAe7B5cB2",
+    "symbol": "Minions",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/DODO-minions.jpg",
+    "override": false
+  },
+  {
+    "name": "Bored David on BSC",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0xbF7BCcE8D60A9C3F6bFaEc9346Aa85B9f781a4e9",
+    "symbol": "CIF",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xcb05535bd212eCFC4B7b9db81d6C2C768b726776",
+    "symbol": "COF",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 56,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "Epor.io",
+    "address": "0x5a499713dda676df1d97c1462b7eb9ae874dd3d8",
+    "symbol": "EPR",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/epor.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0FB7694c990CF19001127391Dbe53924dd7a61c7",
+    "symbol": "CIF",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xbe49ac1EadAc65dccf204D4Df81d650B50122aB2",
+    "symbol": "COF",
+    "chainId": 42220,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Minerva Farm v1 - MIVA:WXDAI",
+    "address": "0xB81cf21256af0C688d93f49534a0d375346De458",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-WXDAI_Honeyswap.svg",
+    "override": true
+  },
+  {
+    "name": "Minerva Farm v1 - MIVA:HNY",
+    "address": "0x58a524458e8A196B1F5FA2da477A6111A6076268",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-HNY_Honeyswap.svg",
+    "override": true
+  },
+  {
+    "name": "Minerva Farm v1 - FRACTION:MIVA",
+    "address": "0x491B39272B19b6C1fE4C79026c4641509912386f",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_FRACTION-MIVA_Honeyswap.svg",
+    "override": true
+  },
+  {
+    "name": "Minerva Farm v1 - MIVA:SYMM",
+    "address": "0x0a7E3b2196021d4E13d91EE61B53df24674cA3c1",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-SYMM_Symmetric.svg",
+    "override": true
+  },
+  {
+    "name": "Minerva Farm v1 - MIVA:FRACTION",
+    "address": "0x8CCC4D685236615126f94EC9850869d9f60F7684",
+    "symbol": "MIVA-V1-FPOS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/farm_MIVA-FRACTION_Symmetric.svg",
+    "override": true
+  },
+  {
+    "name": "Efficient Market Hypothesis - 0α_1",
+    "address": "0x64c87292382966DF7B884BbD4b303600F4091948",
+    "symbol": "0α_1",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/zeroalpha.svg",
+    "override": false
+  },
+  {
+    "name": "The Proof of Attendance Protocol",
+    "address": "0x22C1f6050E56d2876009903609a2cC3fEf83B415",
+    "symbol": "POAP",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/POAP.svg",
+    "override": true
+  },
+  {
+    "name": "xDai Tigers",
+    "address": "0x22570d137e36099700A9c80E5DDDd4a0d353f6c2",
+    "symbol": "XDAITIGERS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/xDaiTigers.svg",
+    "override": true
+  },
+  {
+    "name": "Pixeth",
+    "address": "0x42a109D4Bc0aff8754272Ba9F44fa79dAC0f1B34",
+    "symbol": "PIX",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/PIXETH.svg",
+    "override": false
+  },
+  {
+    "name": "Epor.io",
+    "address": "0x13A24bA31A6F81b4B4F8e9759b8bDa49bD5904A1",
+    "symbol": "EPR",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/epor.svg",
+    "override": true
+  },
+  {
+    "name": "Nifty.Ink",
+    "address": "0xCF964c89f509a8c0Ac36391c5460dF94B91daba5",
+    "symbol": "NIFTY.INK",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/nifty-ink.svg",
+    "override": true
+  },
+  {
+    "name": "Crypto stamp Golden Doge",
+    "address": "0x753FFDb0901549a6d39C3D2f12722bB80D1D18B7",
+    "symbol": "CSGD",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CSGD.jpg",
+    "override": true
+  },
+  {
+    "name": "Crypto stamp Edition 2",
+    "address": "0x143e0E54695E7EB13571B019F87e927c1098066C",
+    "symbol": "CS2",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CS3.jpg",
+    "override": true
+  },
+  {
+    "name": "Crypto stamp Edition 3",
+    "address": "0x5550f0D022f706d03AD25A72C477684d3416193F",
+    "symbol": "CS3",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp-CS3.jpg",
+    "override": true
+  },
+  {
+    "name": "Crypto stamp Edition 3.1",
+    "address": "0x3151B7Dd9F6e806D2709153765925c373af47089",
+    "symbol": "CS3.1",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg",
+    "override": true
+  },
+  {
+    "name": "Crypto stamp Edition 3.1",
+    "address": "0x0e76fdd1c4dc5336c8a083f709fd415eaf32b9bf",
+    "symbol": "CS3.1",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CryptoStamp.svg",
+    "override": true
+  },
+  {
+    "name": "Foundation",
+    "address": "0x86F78Cd3F6e6A93B996fedE81eD964b0Fa1414e1",
+    "symbol": "FND",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/foundation.svg",
+    "override": false
+  },
+  {
+    "name": "ChievToken",
+    "address": "0xe0D25a9eAcCc946a016cD046EC1e5Cdf413Aa110",
+    "symbol": "CHIEV",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "cryptoWine",
+    "address": "0xe8bEb275EC4a9F854ae123096f597222D85C1Ef2",
+    "symbol": "WINE",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/cryptoWine.svg",
+    "override": false
+  },
+  {
+    "name": "NFBeez",
+    "address": "0x0f37B8101f014cf9806799b7159b32c010397d55",
+    "symbol": "NFB",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFBeez.svg",
+    "override": false
+  },
+  {
+    "name": " HoneyFarm Deposits v1",
+    "address": "0xb44825cf0d8d4dd552f2434056c41582415aaaa1",
+    "symbol": "HFD",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "KudosToken",
+    "address": "0x74e596525c63393f42c76987b6a66f4e52733efa",
+    "symbol": "KDO",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/kudostoken.svg",
+    "override": false
+  },
+  {
+    "name": "SNAFU",
+    "address": "0xed1efc6efceaab9f6d609fec89c9e675bf1efb0a",
+    "symbol": "SNAFU",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/SNAFU.svg",
+    "override": false
+  },
+  {
+    "name": "WrappedSNAFU",
+    "address": "0x1BFb3FbCf1ce331B7AAE03a3c0Bf3AcF685F4bD6",
+    "symbol": "WSNAFU",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/SNAFU.svg",
+    "override": false
+  },
+  {
+    "name": "SnafuConverter",
+    "address": "0x683B799b7ee741f00CCea34AcaDC32ba23E8982a",
+    "symbol": "SnafuPrize",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/SNAFU.svg",
+    "override": false
+  },
+  {
+    "name": ".gnosis (punk.domains)",
+    "address": "0xC3E8922657686EC63eaaa9FC1Fe06826802e7e0f",
+    "symbol": ".GNOSIS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".xdai (punk.domains)",
+    "address": "0xbca24d86e4ad1e011278faefc4ff191a731411ec",
+    "symbol": ".XDAI",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".bright (punk.domains)",
+    "address": "0x3490c9817c45a2a394b11a3807f58a8325235ae0",
+    "symbol": ".BRIGHT",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": "CoW Citizen",
+    "address": "0x62108E1AC36a163A68B869d096cb14CE690ca30b",
+    "symbol": "CITIZEN",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/CowCitizen.svg",
+    "override": false
+  },
+  {
+    "name": "Gnosis Tigers",
+    "address": "0x789Ad63C76940E6D48c6A795f572528752451290",
+    "symbol": "3DTIGERS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GnosisTigers.jpg",
+    "override": false
+  },
+  {
+    "name": ".gnosis (deprecated)",
+    "address": "0xBDACF94dDCAB51c39c2dD50BffEe60Bb8021949a",
+    "symbol": ".GNOSIS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": ".xdai (deprecated)",
+    "address": "0xefbe0b46649b7a0f1e1d49cca98ad9cf6bcfb096",
+    "symbol": ".XDAI",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": ".bright (deprecated)",
+    "address": "0x4da0a46cc54439b1dE0203d376b98D988697091d",
+    "symbol": ".BRIGHT",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": "xDaiPunks",
+    "address": "0x9f0B5B31e7FBDe3D9B1aF4e482Ef262b4ae9Ed90",
+    "symbol": "xDaiPunks",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/xdaipunks.jpg",
+    "override": false
+  },
+  {
+    "name": "Blue Skies",
+    "address": "0x9E1f8Cb2F4674AC5AbaE9d38A80607da79cBE5C3",
+    "symbol": "BLS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/blue-skies.jpg",
+    "override": false
+  },
+  {
+    "name": "Bored David on Gnosis",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "DappCon 2022 Berlin - Early Bird - Wave 1",
+    "address": "0x2217d4ff7b9978ba123019bf1f4dc0a2bd46f9d6",
+    "symbol": "DappCon KEY",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon2022.svg",
+    "override": true
+  },
+  {
+    "name": "AzuroBet-NFT",
+    "address": "0xFd9E5A2A1bfc8B57A288A3e12E2c601b0Cc7e476",
+    "symbol": "BET",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/AzuroToken.png",
+    "override": false
+  },
+  {
+    "name": "DappCon22 Berlin - General Tickets",
+    "address": "0x2F3c9b71f256E7450c47872aE00389C616B08646",
+    "symbol": "DappCon KEY",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon2022.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0xaee3fadf4b928a1b894c60e6dd43e511d37f3999",
+    "symbol": "SFS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "The Cube",
+    "address": "0x8390763dC22259E391F82e2Bfc7c8cCACD80A76B",
+    "symbol": "CUBE",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/TheCube.svg",
+    "override": true
+  },
+  {
+    "name": "NiftyFair.io",
+    "address": "0x805df61e05dfc0bef1ae6c66ee59fbcc31f361c7",
+    "symbol": "NiftyToken",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NiftyFair.svg",
+    "override": true
+  },
+  {
+    "name": "DappCon 2023 Berlin - Early Bird",
+    "address": "0xc948C9f09f21c36A133261fE5C55A5cBB37d4486",
+    "symbol": "DappCon23",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon23.svg",
+    "override": true
+  },
+  {
+    "name": "DappCon 2023 Berlin - General Tickets",
+    "address": "0x89c98813B9B52697cf7571b35Fb74608B98E1683",
+    "symbol": "DappCon23",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon23.svg",
+    "override": true
+  },
+  {
+    "name": "DappCon 2023 Berlin - HoG Tickets",
+    "address": "0x22b8d82eD250c4694F6425eCA0A0612A61Cf12d8",
+    "symbol": "DappCon23",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/dappcon23.svg",
+    "override": true
+  },
+  {
+    "name": "Not Bored Ape Yacht Club",
+    "address": "0x0f38f41cD7eF4793412C58263C7dC54dbD807f73",
+    "symbol": "NBAYC",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NBAYC.png",
+    "override": false
+  },
+  {
+    "name": "Gnosis Pay VIP",
+    "address": "0x0d0ce23ddb2eac9439d2ba79f802016a60325b09",
+    "symbol": "GPAYVIP",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GnosisPay.svg",
+    "override": true
+  },
+  {
+    "name": "Gnosis Pay Eiffel",
+    "address": "0x417e1d9998aaadd1064365671f9256621fc5def3",
+    "symbol": "GPAYEIFFEL",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GnosisPay.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x1497440B4E92DC4ca0F76223b28C20Cb9cB8a0f1",
+    "symbol": "CIF",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xfC00dEE8a980110c5608A823a5B3af3872635456",
+    "symbol": "COF",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0x91cf787b441207e6fab4e18320521c3d23c587e3",
+    "symbol": "SFS",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x0C6D90a98426bfD572a5c5Be572a7f6Bd1C5ED76",
+    "symbol": "CIF",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0xFb2b126660BE2fdEBa254b1F6e4348644E8482e7",
+    "symbol": "COF",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "GeoWeb Registry Diamond",
+    "address": "0xba1231785a7b4ac0e8dc9a0403938c2182ce4a4e",
+    "symbol": "GEO-RD",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/geoweb.svg",
+    "override": false
+  },
+  {
+    "name": "GeoWeb PCOLicenseDiamond",
+    "address": "0xe5769b506e624044ac2d472e76bedba53dc2bbed",
+    "symbol": "GEO-LD",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/geoweb.svg",
+    "override": false
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 10,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "Swiss Crypto Stamp",
+    "address": "0x6ddcc90614d47acd7596447686c4fd6aee782742",
+    "symbol": "SCS",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/swiss-crypto-stamp-2021.jpg",
+    "override": true
+  },
+  {
+    "name": "NFTify ERC-721",
+    "address": "0x2c6362e7db64cdde0bf81f897c8a38d6fa037f18",
+    "symbol": "NFTify721",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": true
+  },
+  {
+    "name": "NFTify ERC-1155",
+    "address": "0xea6b406de2ca02111bb1597354b552b473a5c054",
+    "symbol": "NFTify1155",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/NFTify.png",
+    "override": true
+  },
+  {
+    "name": "OpenSea Collections",
+    "address": "0x2953399124f0cbb46d2cbacd8a89cf0599974963",
+    "symbol": "OPENSTORE",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/Opensea.svg",
+    "override": false
+  },
+  {
+    "name": "Uniswap V3: Positions NFT",
+    "address": "0xc36442b4a4522e871399cd717abdd847ab11fe88",
+    "symbol": "UNI-V3-POS",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/uniswapv3.svg",
+    "override": false
+  },
+  {
+    "name": " HoneyFarm Deposits v1",
+    "address": "0x62d7e2484fcfc6752b9473260efe1b86cabac34e",
+    "symbol": "HFD",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "Unstoppable Domains",
+    "address": "0xa9a6A3626993D487d2Dbda3173cf58cA1a9D9e9f",
+    "symbol": "UD",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/unstoppable-domains.svg",
+    "override": false
+  },
+  {
+    "name": ".web3 (punk.domains)",
+    "address": "0xb6Cf2874588d0fdFAf9d1b5E254ee6C49110C68B",
+    "symbol": ".WEB3",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".polygon (punk.domains)",
+    "address": "0xa450bc33d0940d25fB0961c592fb440Fa63ABE03",
+    "symbol": ".POLYGON",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".ape (punk.domains)",
+    "address": "0x794a8390D94E32b086908D2bA9D66300aA163C62",
+    "symbol": ".APE",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".poly (punk.domains)",
+    "address": "0x70Ac07C50131b7bb2c8Bd9466D8d2add30B7759f",
+    "symbol": ".POLY",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": ".degen (punk.domains)",
+    "address": "0xC4999A3e91ef87c9EC5d8186D02B77F9A62458b9",
+    "symbol": ".DEGEN",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-logo.png",
+    "override": true
+  },
+  {
+    "name": "Degen Dogs",
+    "address": "0xA920464B46548930bEfECcA5467860B2b4C2B5b9",
+    "symbol": "DOG",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/degendogs.png",
+    "override": false
+  },
+  {
+    "name": ".web3 (deprecated)",
+    "address": "0x46Ee2d28f4b3555492296bfE1509Ea22FF47b71e",
+    "symbol": ".WEB3",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": ".polygon (deprecated)",
+    "address": "0xdf9559841F6ee36C6a86FE7c058bD8736E132c5f",
+    "symbol": ".POLYGON",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": ".ape (deprecated)",
+    "address": "0xBe3655C0e457DF3A551E5d0Ecee5D6a6E69E3E8d",
+    "symbol": ".APE",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": ".poly (deprecated)",
+    "address": "0x760D82D92f3A76d961961D6607E062Ca10b1C172",
+    "symbol": ".POLY",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": ".degen (deprecated)",
+    "address": "0x614cD3F6751ABD5a8d33C04AdE6dFeF58b521820",
+    "symbol": ".DEGEN",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": ".humandao (deprecated)",
+    "address": "0xFeB49640DF4eA8d14FfB452B53DcEE275064d77C",
+    "symbol": ".HUMANDAO",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/punk-domains-deprecated.png",
+    "override": true
+  },
+  {
+    "name": "Blue Skies",
+    "address": "0x9E1f8Cb2F4674AC5AbaE9d38A80607da79cBE5C3",
+    "symbol": "BLS",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/blue-skies.jpg",
+    "override": false
+  },
+  {
+    "name": "AustriaPro NFT 1",
+    "address": "0x06935e7e549956d56e577b9a8cf715905538d121",
+    "symbol": "APN1",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/austriapro.png",
+    "override": false
+  },
+  {
+    "name": "Bored David on Polygon",
+    "address": "0x8B8AF1072e8cf40CF75ad6EFDf9Fe999a47E285C",
+    "symbol": "DAVID",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/BoredDavid-B.svg",
+    "override": false
+  },
+  {
+    "name": "Superfluid Stream",
+    "address": "0xfbd3363e2fc4db7ce069dd422a54cc5c5eaca9b7",
+    "symbol": "SFS",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "THE CUP",
+    "address": "0xF820E12B4Cc541ba3Df9e8b5876305c113a57734",
+    "symbol": "CUP",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/the-cup.png",
+    "override": false
+  },
+  {
+    "name": "Lens Protocol Profiles",
+    "address": "0xDb46d1Dc155634FbC732f92E853b10B288AD5a1d",
+    "symbol": "LPP",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/lens-protocol-profiles.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Inflow",
+    "address": "0x55909bB8cd8276887Aae35118d60b19755201c68",
+    "symbol": "CIF",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Superfluid Constant Outflow",
+    "address": "0x554e2bbaCF43FD87417b7201A9F1649a3ED89d68",
+    "symbol": "COF",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/superfluid.svg",
+    "override": true
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 1101,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  },
+  {
+    "name": "Placeholder",
+    "address": "0x0000000000000000000000000000000000000000",
+    "symbol": "XYZ",
+    "chainId": 324,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/placeholder.svg",
+    "override": false
+  }
+]
