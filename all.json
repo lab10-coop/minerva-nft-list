@@ -808,6 +808,14 @@
     "override": true
   },
   {
+    "name": "OwnerChip Community",
+    "address": "0xef5b50bb76b416e7435c22a0c1dec829da9839d1",
+    "symbol": "OC",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/OwnerChipCommunity.png",
+    "override": false
+  },
+  {
     "name": "THE CUP",
     "address": "0xf820e12b4cc541ba3df9e8b5876305c113a57734",
     "symbol": "CUP",
