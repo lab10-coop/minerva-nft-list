@@ -664,6 +664,14 @@
     "override": true
   },
   {
+    "name": "Gnosis Name Service",
+    "address": "0x4f132A7e39B1D717B39C789eB9EC1e790092042B",
+    "symbol": "GNS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GNS.png",
+    "override": false
+  },
+  {
     "name": "Placeholder",
     "address": "0x0000000000000000000000000000000000000000",
     "symbol": "XYZ",

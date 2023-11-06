@@ -368,6 +368,14 @@
     "override": true
   },
   {
+    "name": "Gnosis Name Service",
+    "address": "0x4f132a7e39b1d717b39c789eb9ec1e790092042b",
+    "symbol": "GNS",
+    "chainId": 100,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/GNS.png",
+    "override": false
+  },
+  {
     "name": "Crypto stamp Edition 3",
     "address": "0x5550f0d022f706d03ad25a72c477684d3416193f",
     "symbol": "CS3",
