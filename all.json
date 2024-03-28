@@ -808,6 +808,14 @@
     "override": true
   },
   {
+    "name": "Bonsai NFT (DN-404)",
+    "address": "0xe9d2fa815b95a9d087862a09079549f351dab9bd",
+    "symbol": "BONSAI",
+    "chainId": 137,
+    "logoURI": "https://raw.githubusercontent.com/lab10-coop/minerva-nft-list/main/images/bonsai.png",
+    "override": true
+  },
+  {
     "name": "NFTify ERC-1155",
     "address": "0xea6b406de2ca02111bb1597354b552b473a5c054",
     "symbol": "NFTify1155",
